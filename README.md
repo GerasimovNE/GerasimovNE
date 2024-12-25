@@ -1,8 +1,11 @@
 # GeraimovNE
-# Привет, я Никикта
+# Привет, я Никита
 
-Учусь в академии нейросетей The Founder
+В данный момент учусь в академии нейросетей The Founder, на курсе разработчик нейросетей.
 
+# стек
+  Python, TensorFlow, Keras, Numpy, pandas, Matplotlib, Scikit-learn
+  
 TG: @gerasimov_ne
 
 последние учебные проекты:
