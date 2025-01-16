@@ -9,9 +9,9 @@ TG: [@gerasimov_ne](https://t.me/gerasimov_ne)
 
 1. [GAN](https://github.com/GerasimovNE/GAN_Fashion_mnis)
 
-   стек: keras, tensorflow
-
    задача: Генерация излбражений.
+
+   стек: keras, tensorflow
 
    результат:
 
@@ -19,9 +19,9 @@ TG: [@gerasimov_ne](https://t.me/gerasimov_ne)
    
 2. [сегментация изображений Unet++](https://github.com/GerasimovNE/Unet)
 
-   стек: keras, tensorflow
-
    задача: Сегментация рентгена легких
+
+   стек: keras, tensorflow
 
    результат:
    
@@ -33,9 +33,29 @@ TG: [@gerasimov_ne](https://t.me/gerasimov_ne)
    
    стек: tensorflow, keras
 
-   результат :
+   результат:
 
    ![загруженво](https://github.com/user-attachments/assets/39fffc2b-cc4f-4925-a40c-23239bc3fe5f)
 
-7. [Чат бот, помощник для работы с датасетами](https://github.com/GerasimovNE/Practical-work-2)
-8. 
+4. [Чат бот, помощник для работы с датасетами](https://github.com/GerasimovNE/Practical-work-2)
+
+   задача:
+
+   Создать чат бот для работы с датасетами pandas способный:
+      загружать датасет с kaggle
+   
+      преобразовывать естественный язык в код python (pandas)
+   
+      сохранять новвый датасет
+
+   стек: llama, pandasQueryEngine, ReActAgent, ChatGPT, phoenix
+   
+6. [RAG](https://github.com/GerasimovNE/RAG)
+
+   задача:
+
+   Создать RAG систему, база данных любая (в данном случае худлжестенное произведение), загркзка из pdf
+
+   Использовать несколько вариантов поисковиков. Сделать трассировку
+
+   стек:  llama, phoenix
