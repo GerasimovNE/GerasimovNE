@@ -13,7 +13,7 @@
 
 1. [GAN](https://github.com/GerasimovNE/GAN_Fashion_mnis)
 
-   задача: Генерация излбражений.
+   задача: Генерация изображений.
 
    стек: keras, tensorflow
 
@@ -33,7 +33,7 @@
    
 3. [watermark](https://github.com/GerasimovNE/watermark) : 
 
-   задача: удаление водных знвков с помощью автокодировщика
+   задача: удаление водных знаков с помощью автокодировщика
    
    стек: tensorflow, keras
 
@@ -54,7 +54,7 @@
 
    стек: llama, pandasQueryEngine, ReActAgent, ChatGPT, phoenix
    
-6. [RAG](https://github.com/GerasimovNE/RAG)
+5. [RAG](https://github.com/GerasimovNE/RAG)
 
    задача:
 
