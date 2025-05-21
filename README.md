@@ -11,7 +11,7 @@
 
 последние учебные проекты:
 
-1. [GAN](https://github.com/GerasimovNE/GAN_Fashion_mnis)
+1. [GAN](https://github.com/GerasimovNE/GAN_Fashion_mnist)
 
    задача: Генерация изображений.
 
