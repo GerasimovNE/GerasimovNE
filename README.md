@@ -40,8 +40,16 @@
    результат:
 
    ![загруженво](https://github.com/user-attachments/assets/39fffc2b-cc4f-4925-a40c-23239bc3fe5f)
+4. [VAE GAN](https://github.com/GerasimovNE/vae_gan)
+   
+   задача: генерация изображения глаз с помощью vae gan
 
-4. [Чат бот, помощник для работы с датасетами](https://github.com/GerasimovNE/Practical-work-2)
+   стек: tensorflow, keras
+
+   результат:
+   ![загружено (2)](https://github.com/user-attachments/assets/08d1e735-3599-41c1-9277-ca8f5933388a)
+
+5. [Чат бот, помощник для работы с датасетами](https://github.com/GerasimovNE/Practical-work-2)
 
    задача:
 
@@ -54,7 +62,7 @@
 
    стек: llama, pandasQueryEngine, ReActAgent, ChatGPT, phoenix
    
-5. [RAG](https://github.com/GerasimovNE/RAG)
+6. [RAG](https://github.com/GerasimovNE/RAG)
 
    задача:
 
